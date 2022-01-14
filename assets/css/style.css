@@ -133,7 +133,7 @@ color:black;
   margin-top: 46.5px;
   padding-top: 50%;
   position: relative;
-  background: url("/FirstWeb/assets/img/slider/slider1.jpg") top center / cover
+  background: url("../FirstWeb/assets/img/slider/slider1.jpg") top center / cover
     no-repeat;
 }
 #slider .text-content {
