@@ -133,6 +133,7 @@ color:black;
   margin-top: 46.5px;
   padding-top: 50%;
   position: relative;
+  /* chú ý fix  */
   background: url("../img/slider/slider1.jpg") top center / cover
     no-repeat;
 }
